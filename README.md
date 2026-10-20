@@ -6,3 +6,4 @@
 ```
 curl -X POST http://localhost:8000/predict -H "Content-Type: application/json" -d '{"text":"Claim your prize now you won 1000000!"}'
 ```
+Ссылка на развернутый хостинг: https://homeworkmlfinal.onrender.com/docs
